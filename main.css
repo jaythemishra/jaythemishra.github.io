@@ -3,35 +3,6 @@ body {
 	color: #93a1a1;
 }
 
-/*.container {
-	padding-top: 2rem;
-	padding-bottom: 2rem;
-	padding-left: 32%;
-	padding-right: 32%;
-}
-
-@media only screen and (max-width: 960px) {
-	.container {
-		padding-top: 2rem;
-		padding-bottom: 2rem;
-		padding-left: 16%;
-		padding-right: 16%;
-	}
-}
-
-@media only screen and (max-width: 480px) {
-	.container {
-		padding-top: 2rem;
-		padding-bottom: 2rem;
-		padding-left: 8%;
-		padding-right: 8%;
-	}
-}
-
-.text-wrapper {
-	margin: auto;
-}*/
-
 .title {
 	padding-top: 4%;
 	color: #268bd2;
@@ -48,11 +19,6 @@ body {
 .link {
 	padding-top: 0%;
 	font-size: 12px;
-}
-
-.small-icon {
-    width: 25px;
-    opacity: .7;
 }
 
 img {

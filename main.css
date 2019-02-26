@@ -3,7 +3,7 @@ body {
 	color: #93a1a1;
 }
 
-.container {
+/*.container {
 	padding-top: 2rem;
 	padding-bottom: 2rem;
 	padding-left: 32%;
@@ -30,15 +30,17 @@ body {
 
 .text-wrapper {
 	margin: auto;
-}
+}*/
 
 .title {
+	padding-top: 4%;
 	color: #268bd2;
 	font-size: 32px;
 	font-weight: 500;
 }
 
 .text {
+	display: block;
 	padding-top: 4%;
 	font-size: 16px;
 }

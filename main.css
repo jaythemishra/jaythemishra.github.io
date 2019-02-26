@@ -64,3 +64,7 @@ img {
 a {
 	color: #2aa198;
 }
+
+a:hover {
+	color: #fdf6e3;
+}

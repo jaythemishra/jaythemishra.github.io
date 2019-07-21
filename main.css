@@ -1,5 +1,5 @@
 body {
-	font-family: "Courier New", Courier, monospace;
+	font-family: 'Roboto Mono', monospace;
 	color: #93a1a1;
 }
 
@@ -7,13 +7,13 @@ body {
 	padding-top: 4%;
 	color: #268bd2;
 	font-size: 32px;
-	font-weight: 500;
+	font-weight: 400;
 }
 
 .text {
 	display: block;
 	padding-top: 4%;
-	font-size: 16px;
+	/*font-size: 16px;*/
 }
 
 .link {
